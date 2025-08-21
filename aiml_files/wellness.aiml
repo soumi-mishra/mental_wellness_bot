@@ -1,0 +1,21 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<category>
+  <pattern>HELLO</pattern>
+  <template>Hello! How are you feeling today?</template>
+</category>
+
+<category>
+  <pattern>I AM STRESSED</pattern>
+  <template>It’s okay to feel stressed. Try deep breathing for 2 minutes.</template>
+</category>
+
+<category>
+  <pattern>I AM HAPPY</pattern>
+  <template>That’s wonderful! Happiness is contagious 🌸</template>
+</category>
+
+<category>
+  <pattern>BYE</pattern>
+  <template>Goodbye! Take care of yourself 💚</template>
+</category>
+</aiml>
