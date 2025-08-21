@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Data and models (can be large)
+data/
+models/
+
+# Streamlit cache
+.streamlit/
