@@ -1,21 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0.1" encoding="UTF-8">
-<category>
-  <pattern>HELLO</pattern>
-  <template>Hello! How are you feeling today?</template>
-</category>
 
-<category>
-  <pattern>I AM STRESSED</pattern>
-  <template>It’s okay to feel stressed. Try deep breathing for 2 minutes.</template>
-</category>
+    <!-- 🌿 Greetings -->
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hello! How are you feeling today?</template>
+    </category>
 
-<category>
-  <pattern>I AM HAPPY</pattern>
-  <template>That’s wonderful! Happiness is contagious 🌸</template>
-</category>
+    <category>
+        <pattern>HI</pattern>
+        <template>Hi there! How’s your day going?</template>
+    </category>
 
-<category>
-  <pattern>BYE</pattern>
-  <template>Goodbye! Take care of yourself 💚</template>
-</category>
+    <category>
+        <pattern>HEY</pattern>
+        <template>Hey! How are you feeling right now?</template>
+    </category>
+
+    <category>
+        <pattern>GOOD MORNING</pattern>
+        <template>Good morning ☀️! Wishing you a peaceful and positive day.</template>
+    </category>
+
+    <category>
+        <pattern>GOOD NIGHT</pattern>
+        <template>Good night 🌙. I hope you rest well and wake up refreshed.</template>
+    </category>
+
+    <!-- 🌿 Simple responses -->
+    <category>
+        <pattern>YES</pattern>
+        <template>That’s great! Can you tell me more?</template>
+    </category>
+
+    <category>
+        <pattern>NO</pattern>
+        <template>Alright 💜 I’ll respect your space. I’m here if you want to talk later.</template>
+    </category>
+
+    <category>
+        <pattern>THANK YOU</pattern>
+        <template>You’re welcome 🌸. I’m glad to be here for you.</template>
+    </category>
+
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>I’m doing well, thank you! My main goal is to support your mental wellness 💙. How about you?</template>
+    </category>
+
+    <!-- 🌿 Emotions -->
+    <category>
+        <pattern>HAPPY</pattern>
+        <template>That’s awesome 🎉 What’s making you happy today?</template>
+    </category>
+
+    <category>
+        <pattern>SAD</pattern>
+        <template>I hear you 💙. It’s okay to feel sad sometimes. Do you want to share what’s on your mind?</template>
+    </category>
+
+    <category>
+        <pattern>DEPRESSED</pattern>
+        <template>I’m really sorry you’re feeling depressed 😔. You’re not alone. Would you like me to suggest calming exercises?</template>
+    </category>
+
+    <category>
+        <pattern>ANXIOUS</pattern>
+        <template>Anxiety can feel overwhelming 💜. Let’s try a simple breathing exercise: inhale slowly for 4 seconds, hold for 4, and exhale for 6. Want to try it together?</template>
+    </category>
+
+    <category>
+        <pattern>STRESSED</pattern>
+        <template>Stress happens to all of us 💭. Taking small breaks or journaling can help. Would you like some relaxation tips?</template>
+    </category>
+
+    <category>
+        <pattern>ANGRY</pattern>
+        <template>I understand 💢. Anger is natural but it helps to let it out safely. Do you want me to share some calming methods?</template>
+    </category>
+
+    <category>
+        <pattern>LONELY</pattern>
+        <template>Loneliness can be really tough 💔. Remember, you’re not alone here—I’m with you. Want to chat about what’s making you feel this way?</template>
+    </category>
+
+    <!-- 🌿 Motivation -->
+    <category>
+        <pattern>I AM TIRED</pattern>
+        <template>It’s okay to rest 🌙. Your body and mind deserve it. Try to close your eyes for a few minutes and breathe deeply.</template>
+    </category>
+
+    <category>
+        <pattern>I CANT DO THIS</pattern>
+        <template>Don’t give up 💪. You are stronger than you think. What’s one small step you can take right now?</template>
+    </category>
+
+    <category>
+        <pattern>I FEEL HOPELESS</pattern>
+        <template>I hear your pain 💜. Sometimes life feels heavy, but things can improve with time. Would you like me to remind you of your strengths?</template>
+    </category>
+
+    <category>
+        <pattern>I NEED MOTIVATION</pattern>
+        <template>You’ve already taken a positive step by reaching out 🌟. Remember: progress, not perfection. Want me to share an inspiring quote?</template>
+    </category>
+
+    <!-- 🌿 Self-care -->
+    <category>
+        <pattern>SUGGEST RELAXATION</pattern>
+        <template>Sure 🌿. You can try: (1) Deep breathing, (2) Listening to calming music, (3) Writing down your feelings. Which one do you want to try?</template>
+    </category>
+
+    <category>
+        <pattern>BREATHING EXERCISE</pattern>
+        <template>Okay 💙. Let’s do it together: Inhale deeply for 4 seconds... Hold... Exhale slowly for 6 seconds. Repeat 3 times. Feeling a bit calmer?</template>
+    </category>
+
+    <category>
+        <pattern>MEDITATION</pattern>
+        <template>Meditation helps quiet the mind 🧘. Even 5 minutes of mindfulness can make a difference. Want a short guided meditation tip?</template>
+    </category>
+
+    <category>
+        <pattern>SELF CARE</pattern>
+        <template>Self-care is essential 💜. You can take a warm bath, read, stretch, or even go for a short walk. Which one sounds good?</template>
+    </category>
+
+    <category>
+        <pattern>EXERCISE</pattern>
+        <template>Exercise boosts mood 💪. A short walk, a few stretches, or dancing to your favorite song can help a lot. Want a simple routine?</template>
+    </category>
+
+    <!-- 🌿 Closing -->
+    <category>
+        <pattern>BYE</pattern>
+        <template>Goodbye 👋. Remember to take care of yourself today.</template>
+    </category>
+
+    <category>
+        <pattern>EXIT</pattern>
+        <template>👋 Take care! I’ll be here if you want to talk again.</template>
+    </category>
+
 </aiml>
