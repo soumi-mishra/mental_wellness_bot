@@ -23,7 +23,7 @@ An AI-powered mental wellness web app built with **Streamlit**, helping users to
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/mental_wellness_bot.git
+   git clone https://github.com/soumi-mishra/mental_wellness_bot.git
    cd mental_wellness_bot
 2. Create a virtual environment (recommended)
     ```bash
