@@ -15,8 +15,7 @@ An AI-powered mental wellness web app built with **Streamlit**, helping users to
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to try it out](https://mentalwellnessbot-crexslz33ajsz6tds6rwvd.streamlit.app/)  
-*(Replace with your actual deployed link once hosted on Streamlit Cloud or Hugging Face Spaces)*  
+👉 [Click here to try it out](https://mentalwellnessbot-crexslz33ajsz6tds6rwvd.streamlit.app/)    
 
 ---
 
