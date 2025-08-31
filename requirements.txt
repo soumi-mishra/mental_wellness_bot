@@ -1,7 +1,16 @@
-python-aiml
+# Core
 pandas
+numpy
 matplotlib
 seaborn
+
+# AIML chatbot
+python-aiml
+
+# NLP
 textblob
 scikit-learn
+joblib
+
+# Optional for Streamlit UI
 streamlit
